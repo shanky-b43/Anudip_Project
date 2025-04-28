@@ -1,4 +1,4 @@
-# Anudip_Project - Data Visualization
+# R_D_Infro_Technology - Data Visualization
 
 Project- Customer Churn Analysis and Prediction
 
